@@ -76,7 +76,7 @@ A conversational AI agent that conducts structured discovery interviews — aski
 
 ## 📫 Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AVS%20Sri%20Harsha-blue?style=flat&logo=linkedin)](https://linkedin.com/in/avs-sri-harsha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AVS%20Sri%20Harsha-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sriharshaadda/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-personal--ten--flax.vercel.app-black?style=flat&logo=vercel)](https://personal-ten-flax.vercel.app)
 [![Notion](https://img.shields.io/badge/Case%20Studies-Notion-white?style=flat&logo=notion)](https://www.notion.so/2c6b8c6bfe3580378b45c2754e9ec7aa)
 [![Email](https://img.shields.io/badge/Email-sriharsha.adda%40gmail.com-red?style=flat&logo=gmail)](mailto:sriharsha.adda@gmail.com)
