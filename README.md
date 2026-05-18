@@ -9,19 +9,17 @@ I turn customer problems into products that grow.
 
 
 
-
 🤖 AI Projects
 
-Job Search Agent · Live ↗
+****Job Search Agent · Live ↗
 I was spending 2–3 hours a day scanning job boards. So I automated it.
 An autonomous agent that runs every day at 6 PM EST — searches JSearch (LinkedIn, Indeed, ZipRecruiter, Glassdoor), Remotive, and Jobicy for PM roles, scores every listing 0–100 against my resume using GPT-4o, appends ranked results to a Google Sheet tracker with status dropdowns, and delivers a ranked digest to my inbox. Includes a Resume Tailor module — paste a JD, get a targeted resume rewrite, download as PDF.
 Stack: Node.js · Express · OpenAI GPT-4o · JSearch API (RapidAPI) · Remotive API · Jobicy API · Google Sheets API v4 · SendGrid · node-cron · Render
 PRD Generator · Live Demo ↗
 The blank page is the bottleneck, not the thinking. So I fixed the blank page.
 A conversational AI agent that conducts structured discovery interviews — asking 4–5 targeted questions like a senior PM would — then generates a complete, structured PRD automatically. Split-panel UI: chat on the left, live PRD renders on the right. Inline editing + one-click PDF export.
-Stack: Node.js · Express · HTML/CSS/Vanilla JS · OpenAI GPT-4o · Render
----
-
+Stack: Node.js · Express · HTML/CSS/Vanilla JS · OpenAI GPT-4o · Render**
+---**
 📌 Product Experience
 
 Product Manager Intern @ Cognera Health, Inc. (Apr 2026 – Present)
