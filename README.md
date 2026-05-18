@@ -7,7 +7,9 @@ I turn customer problems into products that grow.
 
 ---
 
-🤖 AI Projects
+
+
+
 🤖 AI Projects
 
 Job Search Agent · Live ↗
@@ -19,8 +21,6 @@ The blank page is the bottleneck, not the thinking. So I fixed the blank page.
 A conversational AI agent that conducts structured discovery interviews — asking 4–5 targeted questions like a senior PM would — then generates a complete, structured PRD automatically. Split-panel UI: chat on the left, live PRD renders on the right. Inline editing + one-click PDF export.
 Stack: Node.js · Express · HTML/CSS/Vanilla JS · OpenAI GPT-4o · Render
 ---
-
-
 
 📌 Product Experience
 
